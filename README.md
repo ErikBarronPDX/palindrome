@@ -1,0 +1,1 @@
+Create a website which accepts a string input and checks to see if this string is a palindrome.
